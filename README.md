@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/punyamodi/LEETCODE/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/punyamodi/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 ## Hash Table
 |  |
 | ------- |
