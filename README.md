@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/punyamodi/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/punyamodi/LEETCODE/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/punyamodi/LEETCODE/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
