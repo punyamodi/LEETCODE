@@ -22,6 +22,7 @@
 | [0006-zigzag-conversion](https://github.com/punyamodi/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/punyamodi/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/punyamodi/LEETCODE/tree/master/0012-integer-to-roman) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/punyamodi/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/punyamodi/LEETCODE/tree/master/0101-symmetric-tree) |
+## Simulation
+|  |
+| ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/punyamodi/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
