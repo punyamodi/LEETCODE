@@ -74,4 +74,8 @@
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/punyamodi/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/punyamodi/LEETCODE/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
