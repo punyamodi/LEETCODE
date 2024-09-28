@@ -63,6 +63,7 @@
 | [0101-symmetric-tree](https://github.com/punyamodi/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/punyamodi/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/punyamodi/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -71,6 +72,7 @@
 | [0101-symmetric-tree](https://github.com/punyamodi/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/punyamodi/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/punyamodi/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -78,6 +80,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/punyamodi/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/punyamodi/LEETCODE/tree/master/0127-word-ladder) |
+| [0199-binary-tree-right-side-view](https://github.com/punyamodi/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -85,6 +88,7 @@
 | [0101-symmetric-tree](https://github.com/punyamodi/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/punyamodi/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/punyamodi/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
