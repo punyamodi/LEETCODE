@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/punyamodi/LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/punyamodi/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/punyamodi/LEETCODE/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -30,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/punyamodi/LEETCODE/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/punyamodi/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/punyamodi/LEETCODE/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/punyamodi/LEETCODE/tree/master/0217-contains-duplicate) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/punyamodi/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/punyamodi/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
@@ -86,6 +89,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/punyamodi/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/punyamodi/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
@@ -110,4 +114,8 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/punyamodi/LEETCODE/tree/master/0217-contains-duplicate) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
