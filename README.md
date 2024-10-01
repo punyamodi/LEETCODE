@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/punyamodi/LEETCODE/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/punyamodi/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0110-balanced-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/punyamodi/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/punyamodi/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/punyamodi/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -93,6 +95,7 @@
 | [0110-balanced-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/punyamodi/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/punyamodi/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/punyamodi/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
@@ -118,4 +121,8 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/punyamodi/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
