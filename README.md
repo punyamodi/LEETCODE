@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/punyamodi/LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/punyamodi/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/punyamodi/LEETCODE/tree/master/0015-3sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/punyamodi/LEETCODE/tree/master/0217-contains-duplicate) |
 ## Two Pointers
@@ -13,6 +14,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/punyamodi/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/punyamodi/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/punyamodi/LEETCODE/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/punyamodi/LEETCODE/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/punyamodi/LEETCODE/tree/master/0217-contains-duplicate) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
