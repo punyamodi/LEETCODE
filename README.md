@@ -16,6 +16,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/punyamodi/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/punyamodi/LEETCODE/tree/master/0605-can-place-flowers) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/punyamodi/LEETCODE/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/punyamodi/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/punyamodi/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/punyamodi/LEETCODE/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/punyamodi/LEETCODE/tree/master/0283-move-zeroes) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/punyamodi/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/punyamodi/LEETCODE/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -53,6 +55,7 @@
 | [0217-contains-duplicate](https://github.com/punyamodi/LEETCODE/tree/master/0217-contains-duplicate) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/punyamodi/LEETCODE/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/punyamodi/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,6 +145,7 @@
 | [0016-3sum-closest](https://github.com/punyamodi/LEETCODE/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/punyamodi/LEETCODE/tree/master/0217-contains-duplicate) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/punyamodi/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
