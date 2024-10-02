@@ -17,6 +17,7 @@
 | [0605-can-place-flowers](https://github.com/punyamodi/LEETCODE/tree/master/0605-can-place-flowers) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/punyamodi/LEETCODE/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/punyamodi/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/punyamodi/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,4 +179,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/punyamodi/LEETCODE/tree/master/0200-number-of-islands) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/punyamodi/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
