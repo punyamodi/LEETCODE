@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/punyamodi/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/punyamodi/LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/punyamodi/LEETCODE/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/punyamodi/LEETCODE/tree/master/0031-next-permutation) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/punyamodi/LEETCODE/tree/master/0217-contains-duplicate) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/punyamodi/LEETCODE/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -19,6 +20,7 @@
 | [0015-3sum](https://github.com/punyamodi/LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/punyamodi/LEETCODE/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/punyamodi/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/punyamodi/LEETCODE/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
