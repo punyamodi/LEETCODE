@@ -51,6 +51,7 @@
 | [1250-longest-common-subsequence](https://github.com/punyamodi/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/punyamodi/LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/punyamodi/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/punyamodi/LEETCODE/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/punyamodi/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/punyamodi/LEETCODE/tree/master/1250-longest-common-subsequence) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/punyamodi/LEETCODE/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Linked List
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/punyamodi/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/punyamodi/LEETCODE/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Database
 |  |
 | ------- |
