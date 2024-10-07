@@ -58,6 +58,7 @@
 | [0012-integer-to-roman](https://github.com/punyamodi/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/punyamodi/LEETCODE/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/punyamodi/LEETCODE/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/punyamodi/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/punyamodi/LEETCODE/tree/master/0621-task-scheduler) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -76,6 +77,7 @@
 | [0002-add-two-numbers](https://github.com/punyamodi/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/punyamodi/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/punyamodi/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/punyamodi/LEETCODE/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -193,4 +195,12 @@
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/punyamodi/LEETCODE/tree/master/1833-find-the-highest-altitude) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/punyamodi/LEETCODE/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/punyamodi/LEETCODE/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
