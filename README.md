@@ -18,6 +18,7 @@
 | [0605-can-place-flowers](https://github.com/punyamodi/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/punyamodi/LEETCODE/tree/master/0621-task-scheduler) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/punyamodi/LEETCODE/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1306-minimum-absolute-difference](https://github.com/punyamodi/LEETCODE/tree/master/1306-minimum-absolute-difference) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/punyamodi/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/punyamodi/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 ## Two Pointers
@@ -165,6 +166,7 @@
 | [0217-contains-duplicate](https://github.com/punyamodi/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/punyamodi/LEETCODE/tree/master/0621-task-scheduler) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1306-minimum-absolute-difference](https://github.com/punyamodi/LEETCODE/tree/master/1306-minimum-absolute-difference) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/punyamodi/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
