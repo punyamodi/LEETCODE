@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/punyamodi/LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/punyamodi/LEETCODE/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/punyamodi/LEETCODE/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/punyamodi/LEETCODE/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/punyamodi/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/punyamodi/LEETCODE/tree/master/0200-number-of-islands) |
@@ -89,6 +90,7 @@
 | [0007-reverse-integer](https://github.com/punyamodi/LEETCODE/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/punyamodi/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/punyamodi/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/punyamodi/LEETCODE/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/punyamodi/LEETCODE/tree/master/0069-sqrtx) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/punyamodi/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
@@ -201,6 +203,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/punyamodi/LEETCODE/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/punyamodi/LEETCODE/tree/master/0200-number-of-islands) |
 ## Prefix Sum
 |  |
