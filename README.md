@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/punyamodi/LEETCODE/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/punyamodi/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/punyamodi/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/punyamodi/LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/punyamodi/LEETCODE/tree/master/0016-3sum-closest) |
@@ -118,6 +119,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/punyamodi/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/punyamodi/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/punyamodi/LEETCODE/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/punyamodi/LEETCODE/tree/master/0162-find-peak-element) |
@@ -195,6 +197,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/punyamodi/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/punyamodi/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Bit Manipulation
