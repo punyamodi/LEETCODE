@@ -33,6 +33,7 @@
 | [0016-3sum-closest](https://github.com/punyamodi/LEETCODE/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/punyamodi/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/punyamodi/LEETCODE/tree/master/0031-next-permutation) |
+| [0143-reorder-list](https://github.com/punyamodi/LEETCODE/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/punyamodi/LEETCODE/tree/master/0283-move-zeroes) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/punyamodi/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/punyamodi/LEETCODE/tree/master/1894-merge-strings-alternately) |
@@ -86,6 +87,7 @@
 | [0002-add-two-numbers](https://github.com/punyamodi/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/punyamodi/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/punyamodi/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0143-reorder-list](https://github.com/punyamodi/LEETCODE/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/punyamodi/LEETCODE/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/punyamodi/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Math
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/punyamodi/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/punyamodi/LEETCODE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/punyamodi/LEETCODE/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
@@ -227,4 +230,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/punyamodi/LEETCODE/tree/master/0146-lru-cache) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/punyamodi/LEETCODE/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
