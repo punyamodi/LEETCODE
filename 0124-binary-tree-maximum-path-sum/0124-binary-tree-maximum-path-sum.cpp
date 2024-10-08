@@ -6,8 +6,7 @@ public:
         }
         int l = solve(root->left, ans);
         int r = solve(root->right, ans);
-        ans = max(
-            {ans, l + root->val, r + root->val, root->val, l + r + root->val});
+        ans = max({ans, l + root->val, r + root->val, root->val, l + r + root->val});
         return max(max(l, r) + root->val, root->val);
     }
     int maxPathSum(TreeNode* root) {
