@@ -29,6 +29,7 @@
 | [1306-minimum-absolute-difference](https://github.com/punyamodi/LEETCODE/tree/master/1306-minimum-absolute-difference) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/punyamodi/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/punyamodi/LEETCODE/tree/master/1833-find-the-highest-altitude) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/punyamodi/LEETCODE/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -209,6 +210,7 @@
 | [0029-divide-two-integers](https://github.com/punyamodi/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/punyamodi/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/punyamodi/LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/punyamodi/LEETCODE/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Counting
 |  |
 | ------- |
@@ -255,4 +257,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/punyamodi/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/punyamodi/LEETCODE/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 <!---LeetCode Topics End-->
