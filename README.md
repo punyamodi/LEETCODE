@@ -31,6 +31,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/punyamodi/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0605-can-place-flowers](https://github.com/punyamodi/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/punyamodi/LEETCODE/tree/master/0621-task-scheduler) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/punyamodi/LEETCODE/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/punyamodi/LEETCODE/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1306-minimum-absolute-difference](https://github.com/punyamodi/LEETCODE/tree/master/1306-minimum-absolute-difference) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/punyamodi/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -202,6 +203,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/punyamodi/LEETCODE/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/punyamodi/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/punyamodi/LEETCODE/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Database
@@ -225,6 +227,7 @@
 | [0217-contains-duplicate](https://github.com/punyamodi/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/punyamodi/LEETCODE/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/punyamodi/LEETCODE/tree/master/0621-task-scheduler) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/punyamodi/LEETCODE/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1306-minimum-absolute-difference](https://github.com/punyamodi/LEETCODE/tree/master/1306-minimum-absolute-difference) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/punyamodi/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -314,4 +317,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/punyamodi/LEETCODE/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/punyamodi/LEETCODE/tree/master/0987-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
