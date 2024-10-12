@@ -70,6 +70,7 @@
 | [0006-zigzag-conversion](https://github.com/punyamodi/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/punyamodi/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/punyamodi/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0038-count-and-say](https://github.com/punyamodi/LEETCODE/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/punyamodi/LEETCODE/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/punyamodi/LEETCODE/tree/master/0242-valid-anagram) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/punyamodi/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
