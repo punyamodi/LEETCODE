@@ -11,6 +11,7 @@
 | [0016-3sum-closest](https://github.com/punyamodi/LEETCODE/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/punyamodi/LEETCODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/punyamodi/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/punyamodi/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/punyamodi/LEETCODE/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/punyamodi/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/punyamodi/LEETCODE/tree/master/0048-rotate-image) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/punyamodi/LEETCODE/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/punyamodi/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/punyamodi/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/punyamodi/LEETCODE/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/punyamodi/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
@@ -273,6 +275,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/punyamodi/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/punyamodi/LEETCODE/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/punyamodi/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -337,5 +340,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/punyamodi/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/punyamodi/LEETCODE/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
