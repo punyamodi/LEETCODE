@@ -16,6 +16,7 @@
 | [0042-trapping-rain-water](https://github.com/punyamodi/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/punyamodi/LEETCODE/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/punyamodi/LEETCODE/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/punyamodi/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/punyamodi/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -129,6 +130,7 @@
 | [0012-integer-to-roman](https://github.com/punyamodi/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/punyamodi/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/punyamodi/LEETCODE/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/punyamodi/LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/punyamodi/LEETCODE/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/punyamodi/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/punyamodi/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
