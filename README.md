@@ -14,6 +14,7 @@
 | [0037-sudoku-solver](https://github.com/punyamodi/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/punyamodi/LEETCODE/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/punyamodi/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/punyamodi/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/punyamodi/LEETCODE/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/punyamodi/LEETCODE/tree/master/0066-plus-one) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/punyamodi/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/punyamodi/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/punyamodi/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/punyamodi/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/punyamodi/LEETCODE/tree/master/0605-can-place-flowers) |
@@ -105,6 +107,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/punyamodi/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/punyamodi/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/punyamodi/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/punyamodi/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/punyamodi/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
