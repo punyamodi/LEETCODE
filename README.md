@@ -79,6 +79,7 @@
 | [0013-roman-to-integer](https://github.com/punyamodi/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/punyamodi/LEETCODE/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/punyamodi/LEETCODE/tree/master/0127-word-ladder) |
+| [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/punyamodi/LEETCODE/tree/master/0242-valid-anagram) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/punyamodi/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/punyamodi/LEETCODE/tree/master/1250-longest-common-subsequence) |
@@ -143,6 +144,7 @@
 | [0048-rotate-image](https://github.com/punyamodi/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/punyamodi/LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/punyamodi/LEETCODE/tree/master/0069-sqrtx) |
+| [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
 | [0371-sum-of-two-integers](https://github.com/punyamodi/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/punyamodi/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
@@ -155,6 +157,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/punyamodi/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/punyamodi/LEETCODE/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/punyamodi/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
 ## Binary Search
 |  |
 | ------- |
@@ -320,6 +323,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/punyamodi/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/punyamodi/LEETCODE/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
 ## Quickselect
 |  |
 | ------- |
