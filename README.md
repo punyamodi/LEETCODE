@@ -25,6 +25,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/punyamodi/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/punyamodi/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/punyamodi/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/punyamodi/LEETCODE/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/punyamodi/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/punyamodi/LEETCODE/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/punyamodi/LEETCODE/tree/master/0198-house-robber) |
@@ -65,6 +66,7 @@
 | [0011-container-with-most-water](https://github.com/punyamodi/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/punyamodi/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/punyamodi/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/punyamodi/LEETCODE/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/punyamodi/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/punyamodi/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/punyamodi/LEETCODE/tree/master/0621-task-scheduler) |
