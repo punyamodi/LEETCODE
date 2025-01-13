@@ -81,6 +81,7 @@
 | [0010-regular-expression-matching](https://github.com/punyamodi/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/punyamodi/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/punyamodi/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/punyamodi/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/punyamodi/LEETCODE/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/punyamodi/LEETCODE/tree/master/0127-word-ladder) |
 | [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
@@ -96,6 +97,7 @@
 | [0001-two-sum](https://github.com/punyamodi/LEETCODE/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/punyamodi/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/punyamodi/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/punyamodi/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/punyamodi/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/punyamodi/LEETCODE/tree/master/0127-word-ladder) |
@@ -363,6 +365,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/punyamodi/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0239-sliding-window-maximum](https://github.com/punyamodi/LEETCODE/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
