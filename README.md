@@ -16,6 +16,7 @@
 | [0037-sudoku-solver](https://github.com/punyamodi/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/punyamodi/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/punyamodi/LEETCODE/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/punyamodi/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/punyamodi/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/punyamodi/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/punyamodi/LEETCODE/tree/master/0048-rotate-image) |
@@ -102,6 +103,7 @@
 | [0013-roman-to-integer](https://github.com/punyamodi/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/punyamodi/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/punyamodi/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/punyamodi/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/punyamodi/LEETCODE/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/punyamodi/LEETCODE/tree/master/0127-word-ladder) |
