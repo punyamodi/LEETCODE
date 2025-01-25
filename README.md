@@ -87,6 +87,7 @@
 | [0013-roman-to-integer](https://github.com/punyamodi/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/punyamodi/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/punyamodi/LEETCODE/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/punyamodi/LEETCODE/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/punyamodi/LEETCODE/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/punyamodi/LEETCODE/tree/master/0127-word-ladder) |
 | [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
@@ -154,6 +155,7 @@
 | [0012-integer-to-roman](https://github.com/punyamodi/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/punyamodi/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/punyamodi/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/punyamodi/LEETCODE/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/punyamodi/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/punyamodi/LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/punyamodi/LEETCODE/tree/master/0069-sqrtx) |
@@ -245,6 +247,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/punyamodi/LEETCODE/tree/master/0043-multiply-strings) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/punyamodi/LEETCODE/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/punyamodi/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/punyamodi/LEETCODE/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
