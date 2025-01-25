@@ -89,6 +89,7 @@
 | [0038-count-and-say](https://github.com/punyamodi/LEETCODE/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/punyamodi/LEETCODE/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/punyamodi/LEETCODE/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/punyamodi/LEETCODE/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/punyamodi/LEETCODE/tree/master/0127-word-ladder) |
 | [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/punyamodi/LEETCODE/tree/master/0242-valid-anagram) |
@@ -158,6 +159,7 @@
 | [0043-multiply-strings](https://github.com/punyamodi/LEETCODE/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/punyamodi/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/punyamodi/LEETCODE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/punyamodi/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/punyamodi/LEETCODE/tree/master/0069-sqrtx) |
 | [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
 | [0371-sum-of-two-integers](https://github.com/punyamodi/LEETCODE/tree/master/0371-sum-of-two-integers) |
@@ -248,6 +250,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/punyamodi/LEETCODE/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/punyamodi/LEETCODE/tree/master/0067-add-binary) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/punyamodi/LEETCODE/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/punyamodi/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/punyamodi/LEETCODE/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
@@ -290,6 +293,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/punyamodi/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/punyamodi/LEETCODE/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/punyamodi/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/punyamodi/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/punyamodi/LEETCODE/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
