@@ -129,6 +129,7 @@
 | [0010-regular-expression-matching](https://github.com/punyamodi/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/punyamodi/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/punyamodi/LEETCODE/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/punyamodi/LEETCODE/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/punyamodi/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/punyamodi/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -161,6 +162,7 @@
 | [0029-divide-two-integers](https://github.com/punyamodi/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/punyamodi/LEETCODE/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/punyamodi/LEETCODE/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/punyamodi/LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/punyamodi/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/punyamodi/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/punyamodi/LEETCODE/tree/master/0069-sqrtx) |
@@ -401,4 +403,8 @@
 | [0039-combination-sum](https://github.com/punyamodi/LEETCODE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/punyamodi/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/punyamodi/LEETCODE/tree/master/0047-permutations-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/punyamodi/LEETCODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
