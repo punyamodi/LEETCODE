@@ -89,6 +89,7 @@
 | [0012-integer-to-roman](https://github.com/punyamodi/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/punyamodi/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/punyamodi/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/punyamodi/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/punyamodi/LEETCODE/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/punyamodi/LEETCODE/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/punyamodi/LEETCODE/tree/master/0044-wildcard-matching) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/punyamodi/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/punyamodi/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/punyamodi/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/punyamodi/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/punyamodi/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/punyamodi/LEETCODE/tree/master/0045-jump-game-ii) |
@@ -361,6 +363,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/punyamodi/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/punyamodi/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/punyamodi/LEETCODE/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
