@@ -24,6 +24,7 @@
 | [0047-permutations-ii](https://github.com/punyamodi/LEETCODE/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/punyamodi/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/punyamodi/LEETCODE/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/punyamodi/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/punyamodi/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/punyamodi/LEETCODE/tree/master/0066-plus-one) |
@@ -269,6 +270,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/punyamodi/LEETCODE/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/punyamodi/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/punyamodi/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/punyamodi/LEETCODE/tree/master/0067-add-binary) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/punyamodi/LEETCODE/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -346,6 +348,7 @@
 | [0036-valid-sudoku](https://github.com/punyamodi/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/punyamodi/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/punyamodi/LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/punyamodi/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/punyamodi/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/punyamodi/LEETCODE/tree/master/0074-search-a-2d-matrix) |
