@@ -98,6 +98,7 @@
 | [0044-wildcard-matching](https://github.com/punyamodi/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/punyamodi/LEETCODE/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/punyamodi/LEETCODE/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/punyamodi/LEETCODE/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/punyamodi/LEETCODE/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/punyamodi/LEETCODE/tree/master/0127-word-ladder) |
 | [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
@@ -141,6 +142,7 @@
 | [0045-jump-game-ii](https://github.com/punyamodi/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/punyamodi/LEETCODE/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/punyamodi/LEETCODE/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/punyamodi/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/punyamodi/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/punyamodi/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
