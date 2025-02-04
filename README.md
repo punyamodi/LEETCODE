@@ -29,6 +29,7 @@
 | [0064-minimum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/punyamodi/LEETCODE/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/punyamodi/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/punyamodi/LEETCODE/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/punyamodi/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/punyamodi/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -99,6 +100,7 @@
 | [0049-group-anagrams](https://github.com/punyamodi/LEETCODE/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/punyamodi/LEETCODE/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/punyamodi/LEETCODE/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/punyamodi/LEETCODE/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/punyamodi/LEETCODE/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/punyamodi/LEETCODE/tree/master/0127-word-ladder) |
 | [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
@@ -226,6 +228,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/punyamodi/LEETCODE/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/punyamodi/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/punyamodi/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -355,6 +358,7 @@
 | [0059-spiral-matrix-ii](https://github.com/punyamodi/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/punyamodi/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/punyamodi/LEETCODE/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/punyamodi/LEETCODE/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/punyamodi/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 ## Prefix Sum
@@ -424,6 +428,7 @@
 | [0040-combination-sum-ii](https://github.com/punyamodi/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/punyamodi/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/punyamodi/LEETCODE/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/punyamodi/LEETCODE/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/punyamodi/LEETCODE/tree/master/0093-restore-ip-addresses) |
 ## Combinatorics
 |  |
