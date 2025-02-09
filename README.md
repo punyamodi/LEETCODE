@@ -222,6 +222,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/punyamodi/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/punyamodi/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/punyamodi/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
@@ -237,6 +238,7 @@
 | [0101-symmetric-tree](https://github.com/punyamodi/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/punyamodi/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/punyamodi/LEETCODE/tree/master/0133-clone-graph) |
@@ -253,6 +255,7 @@
 | [0101-symmetric-tree](https://github.com/punyamodi/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/punyamodi/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/punyamodi/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/punyamodi/LEETCODE/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/punyamodi/LEETCODE/tree/master/0133-clone-graph) |
@@ -272,6 +275,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/punyamodi/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/punyamodi/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/punyamodi/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
