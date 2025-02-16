@@ -43,6 +43,7 @@
 | [0200-number-of-islands](https://github.com/punyamodi/LEETCODE/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/punyamodi/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/punyamodi/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/punyamodi/LEETCODE/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/punyamodi/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/punyamodi/LEETCODE/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/punyamodi/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
@@ -329,6 +330,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/punyamodi/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/punyamodi/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/punyamodi/LEETCODE/tree/master/0218-the-skyline-problem) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -347,6 +349,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/punyamodi/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/punyamodi/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/punyamodi/LEETCODE/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/punyamodi/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/punyamodi/LEETCODE/tree/master/0621-task-scheduler) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/punyamodi/LEETCODE/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -446,4 +449,20 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/punyamodi/LEETCODE/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/punyamodi/LEETCODE/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/punyamodi/LEETCODE/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/punyamodi/LEETCODE/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/punyamodi/LEETCODE/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
