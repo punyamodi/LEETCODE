@@ -24,6 +24,7 @@
 | [0047-permutations-ii](https://github.com/punyamodi/LEETCODE/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/punyamodi/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/punyamodi/LEETCODE/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/punyamodi/LEETCODE/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/punyamodi/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/punyamodi/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0064-minimum-path-sum) |
@@ -454,6 +455,7 @@
 | [0040-combination-sum-ii](https://github.com/punyamodi/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/punyamodi/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/punyamodi/LEETCODE/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/punyamodi/LEETCODE/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/punyamodi/LEETCODE/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/punyamodi/LEETCODE/tree/master/0093-restore-ip-addresses) |
 ## Combinatorics
