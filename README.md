@@ -42,6 +42,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/punyamodi/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/punyamodi/LEETCODE/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/punyamodi/LEETCODE/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/punyamodi/LEETCODE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/punyamodi/LEETCODE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/punyamodi/LEETCODE/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/punyamodi/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
@@ -74,6 +75,7 @@
 | [0088-merge-sorted-array](https://github.com/punyamodi/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/punyamodi/LEETCODE/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/punyamodi/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/punyamodi/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/punyamodi/LEETCODE/tree/master/0283-move-zeroes) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/punyamodi/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/punyamodi/LEETCODE/tree/master/1894-merge-strings-alternately) |
@@ -198,6 +200,7 @@
 | [0096-unique-binary-search-trees](https://github.com/punyamodi/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/punyamodi/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/punyamodi/LEETCODE/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/punyamodi/LEETCODE/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
 | [0371-sum-of-two-integers](https://github.com/punyamodi/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/punyamodi/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
