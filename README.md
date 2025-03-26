@@ -314,6 +314,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/punyamodi/LEETCODE/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/punyamodi/LEETCODE/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/punyamodi/LEETCODE/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/punyamodi/LEETCODE/tree/master/0262-trips-and-users) |
 ## Binary Search Tree
 |  |
 | ------- |
