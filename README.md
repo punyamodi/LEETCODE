@@ -39,6 +39,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/punyamodi/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/punyamodi/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/punyamodi/LEETCODE/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/punyamodi/LEETCODE/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/punyamodi/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/punyamodi/LEETCODE/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/punyamodi/LEETCODE/tree/master/0164-maximum-gap) |
@@ -111,6 +112,7 @@
 | [0093-restore-ip-addresses](https://github.com/punyamodi/LEETCODE/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/punyamodi/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/punyamodi/LEETCODE/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/punyamodi/LEETCODE/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/punyamodi/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/punyamodi/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
@@ -136,6 +138,7 @@
 | [0127-word-ladder](https://github.com/punyamodi/LEETCODE/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/punyamodi/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/punyamodi/LEETCODE/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/punyamodi/LEETCODE/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/punyamodi/LEETCODE/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/punyamodi/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/punyamodi/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
@@ -163,6 +166,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/punyamodi/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/punyamodi/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/punyamodi/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/punyamodi/LEETCODE/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/punyamodi/LEETCODE/tree/master/0198-house-robber) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/punyamodi/LEETCODE/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/punyamodi/LEETCODE/tree/master/1250-longest-common-subsequence) |
@@ -490,4 +494,12 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/punyamodi/LEETCODE/tree/master/0164-maximum-gap) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/punyamodi/LEETCODE/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/punyamodi/LEETCODE/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
