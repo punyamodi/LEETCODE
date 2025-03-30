@@ -115,6 +115,7 @@
 | [0139-word-break](https://github.com/punyamodi/LEETCODE/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/punyamodi/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/punyamodi/LEETCODE/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/punyamodi/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/punyamodi/LEETCODE/tree/master/0242-valid-anagram) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/punyamodi/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -204,6 +205,7 @@
 | [0096-unique-binary-search-trees](https://github.com/punyamodi/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/punyamodi/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/punyamodi/LEETCODE/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/punyamodi/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/punyamodi/LEETCODE/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
 | [0371-sum-of-two-integers](https://github.com/punyamodi/LEETCODE/tree/master/0371-sum-of-two-integers) |
