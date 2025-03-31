@@ -211,6 +211,7 @@
 | [0171-excel-sheet-column-number](https://github.com/punyamodi/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/punyamodi/LEETCODE/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
+| [0263-ugly-number](https://github.com/punyamodi/LEETCODE/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/punyamodi/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/punyamodi/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
