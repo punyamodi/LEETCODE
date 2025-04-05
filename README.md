@@ -31,6 +31,7 @@
 | [0066-plus-one](https://github.com/punyamodi/LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/punyamodi/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/punyamodi/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/punyamodi/LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/punyamodi/LEETCODE/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/punyamodi/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -363,6 +364,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/punyamodi/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/punyamodi/LEETCODE/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/punyamodi/LEETCODE/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/punyamodi/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/punyamodi/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/punyamodi/LEETCODE/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
@@ -473,6 +475,7 @@
 | [0046-permutations](https://github.com/punyamodi/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/punyamodi/LEETCODE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/punyamodi/LEETCODE/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/punyamodi/LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/punyamodi/LEETCODE/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/punyamodi/LEETCODE/tree/master/0093-restore-ip-addresses) |
 ## Combinatorics
