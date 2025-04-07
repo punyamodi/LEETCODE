@@ -44,6 +44,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/punyamodi/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/punyamodi/LEETCODE/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/punyamodi/LEETCODE/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/punyamodi/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/punyamodi/LEETCODE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/punyamodi/LEETCODE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/punyamodi/LEETCODE/tree/master/0200-number-of-islands) |
@@ -147,6 +148,7 @@
 | [0146-lru-cache](https://github.com/punyamodi/LEETCODE/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/punyamodi/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/punyamodi/LEETCODE/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/punyamodi/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/punyamodi/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/punyamodi/LEETCODE/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/punyamodi/LEETCODE/tree/master/0621-task-scheduler) |
@@ -343,6 +345,7 @@
 | [0049-group-anagrams](https://github.com/punyamodi/LEETCODE/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/punyamodi/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/punyamodi/LEETCODE/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/punyamodi/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/punyamodi/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/punyamodi/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/punyamodi/LEETCODE/tree/master/0242-valid-anagram) |
@@ -357,6 +360,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/punyamodi/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/punyamodi/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/punyamodi/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/punyamodi/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/punyamodi/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/punyamodi/LEETCODE/tree/master/0218-the-skyline-problem) |
 ## Bit Manipulation
@@ -371,6 +375,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/punyamodi/LEETCODE/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/punyamodi/LEETCODE/tree/master/0621-task-scheduler) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/punyamodi/LEETCODE/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Heap (Priority Queue)
