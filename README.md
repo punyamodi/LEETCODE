@@ -53,6 +53,7 @@
 | [0217-contains-duplicate](https://github.com/punyamodi/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/punyamodi/LEETCODE/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/punyamodi/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/punyamodi/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/punyamodi/LEETCODE/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/punyamodi/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/punyamodi/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
@@ -151,6 +152,7 @@
 | [0169-majority-element](https://github.com/punyamodi/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/punyamodi/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/punyamodi/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/punyamodi/LEETCODE/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/punyamodi/LEETCODE/tree/master/0621-task-scheduler) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/punyamodi/LEETCODE/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -215,6 +217,7 @@
 | [0189-rotate-array](https://github.com/punyamodi/LEETCODE/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/punyamodi/LEETCODE/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/punyamodi/LEETCODE/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/punyamodi/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/punyamodi/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
@@ -241,6 +244,7 @@
 | [0162-find-peak-element](https://github.com/punyamodi/LEETCODE/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/punyamodi/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/punyamodi/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/punyamodi/LEETCODE/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -349,6 +353,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/punyamodi/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/punyamodi/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/punyamodi/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/punyamodi/LEETCODE/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/punyamodi/LEETCODE/tree/master/0621-task-scheduler) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/punyamodi/LEETCODE/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -370,6 +375,7 @@
 | [0067-add-binary](https://github.com/punyamodi/LEETCODE/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/punyamodi/LEETCODE/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/punyamodi/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/punyamodi/LEETCODE/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/punyamodi/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/punyamodi/LEETCODE/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Counting
