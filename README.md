@@ -54,6 +54,7 @@
 | [0218-the-skyline-problem](https://github.com/punyamodi/LEETCODE/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/punyamodi/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/punyamodi/LEETCODE/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/punyamodi/LEETCODE/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/punyamodi/LEETCODE/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/punyamodi/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/punyamodi/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
@@ -246,6 +247,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/punyamodi/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/punyamodi/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/punyamodi/LEETCODE/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/punyamodi/LEETCODE/tree/master/0275-h-index-ii) |
 ## Tree
 |  |
 | ------- |
