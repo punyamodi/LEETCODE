@@ -128,6 +128,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/punyamodi/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/punyamodi/LEETCODE/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/punyamodi/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/punyamodi/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/punyamodi/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/punyamodi/LEETCODE/tree/master/1894-merge-strings-alternately) |
@@ -267,6 +268,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/punyamodi/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/punyamodi/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/punyamodi/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/punyamodi/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/punyamodi/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -286,6 +288,7 @@
 | [0207-course-schedule](https://github.com/punyamodi/LEETCODE/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/punyamodi/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/punyamodi/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/punyamodi/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/punyamodi/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/punyamodi/LEETCODE/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -321,6 +324,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/punyamodi/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/punyamodi/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/punyamodi/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/punyamodi/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/punyamodi/LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/punyamodi/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
@@ -498,6 +502,7 @@
 | [0078-subsets](https://github.com/punyamodi/LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/punyamodi/LEETCODE/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/punyamodi/LEETCODE/tree/master/0093-restore-ip-addresses) |
+| [0257-binary-tree-paths](https://github.com/punyamodi/LEETCODE/tree/master/0257-binary-tree-paths) |
 ## Combinatorics
 |  |
 | ------- |
