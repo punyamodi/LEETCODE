@@ -130,6 +130,7 @@
 | [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/punyamodi/LEETCODE/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/punyamodi/LEETCODE/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/punyamodi/LEETCODE/tree/master/0282-expression-add-operators) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/punyamodi/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/punyamodi/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/punyamodi/LEETCODE/tree/master/1894-merge-strings-alternately) |
@@ -225,6 +226,7 @@
 | [0224-basic-calculator](https://github.com/punyamodi/LEETCODE/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/punyamodi/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/punyamodi/LEETCODE/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/punyamodi/LEETCODE/tree/master/0282-expression-add-operators) |
 | [0371-sum-of-two-integers](https://github.com/punyamodi/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/punyamodi/LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
@@ -506,6 +508,7 @@
 | [0079-word-search](https://github.com/punyamodi/LEETCODE/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/punyamodi/LEETCODE/tree/master/0093-restore-ip-addresses) |
 | [0257-binary-tree-paths](https://github.com/punyamodi/LEETCODE/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/punyamodi/LEETCODE/tree/master/0282-expression-add-operators) |
 ## Combinatorics
 |  |
 | ------- |
