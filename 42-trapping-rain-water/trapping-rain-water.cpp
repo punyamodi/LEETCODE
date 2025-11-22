@@ -1,20 +1,18 @@
-
 class Solution {
 public:
     int trap(vector<int>& height) {
-        int low=0,high=height.size()-1,vol=0,m=INT_MIN;
-        while(low<high){
-            if(height[low]>=height[high]){
-                m=max(m,height[high]);
-                vol+=m-height[high];
-                high--;
+        int s=0, e=height.size()-1, vol=0,m=INT_MIN;
+        while(e>s){
+            if(height[e]>=height[s]){
+                m=max(m,height[s]);
+                vol+=m-height[s];
+                s++;
             }
-            else if(height[low]<height[high]){
-                m=max(m,height[low]);
-                vol+=m-height[low];
-                low++;
+            else if(height[e]<height[s]){
+                m=max(m,height[e]);
+                vol+=m-height[e];
+                e--;
             }
-
         }
         return vol;
     }
